@@ -1,0 +1,2 @@
+Token = "tokendiscord"
+Guild = "idserver"
